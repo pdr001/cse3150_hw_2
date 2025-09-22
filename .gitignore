@@ -1,0 +1,7 @@
+greeter
+*.o
+*.obj
+*.exe
+__pycache__/
+*.pyc
+.pytest_cache/
