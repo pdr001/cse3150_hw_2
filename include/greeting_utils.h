@@ -1,5 +1,5 @@
 #ifndef GREETINGS_UTIL_H
-#define GREETINGS_UTIL_H
+#define GREETING_UTIL_H
 
 #include <string>
 
@@ -11,3 +11,4 @@ namespace GreetingUtils {
 }
 
 #endif
+
